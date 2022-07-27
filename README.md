@@ -1,3 +1,8 @@
+!!!DEPRECATED!!!
+Please use [miniprogram-starter](https://github.com/jiji262/miniprogram-starter) instead.
+
+-------------------------
+
 
 ## Usage
 
